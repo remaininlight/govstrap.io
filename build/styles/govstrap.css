@@ -12163,7 +12163,7 @@ input {
 .btn-start,
 .btn-start:active,
 .btn-start:focus {
-  background-image: url("./images/icon-pointer.png");
+  background-image: url("../images/icon-pointer.png");
   background-position: 100% 50%;
   background-repeat: no-repeat;
   font-weight: 700;
